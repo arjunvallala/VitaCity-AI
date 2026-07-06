@@ -1,4 +1,5 @@
 [build]
+  command = "python build_static.py"
   publish = "public"
 
 [[headers]]
